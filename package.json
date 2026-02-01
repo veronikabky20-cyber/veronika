@@ -2,11 +2,10 @@
   "private": true,
   "license": "MIT",
   "scripts": {
-  "scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start"
-},
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
     "gray-matter": "^4.0.3",
     "next": "^13.5.6",
